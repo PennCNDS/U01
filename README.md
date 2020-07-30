@@ -5,7 +5,7 @@ Dimensional connectomics of anxious misery
 
 This repository contains scripts related to the generation of task files associated with U01 imaging data. 
 
-Task
+task
 
   -assign_souce.sh: contains code that unpacks task data and assigns them to specific NDARS of associated subjects
   
