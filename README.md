@@ -17,6 +17,6 @@ Task
   
   -wrapper_gen_events: loops over each subject's source behavioral data and generate a BIDS compliant events.tsv file
   
-anonymize: contains scripts related to the anonimization of previously generated task files
+anonymize: contains scripts related to the anonymization of previously generated task files
 
 generic_events: contains templates for generation of subjects-specific task files
